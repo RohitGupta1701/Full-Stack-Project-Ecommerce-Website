@@ -1,0 +1,35 @@
+.header{
+    font-family: 'Merriweather', serif;
+    /* font-family: 'Playfair Display', serif; */
+    font-size: 1.2rem;
+    color: white;
+}
+.navbar-brand{
+    margin: 10px;
+    padding: 10px;
+    font-size: xx-large;
+    font-weight: 900;
+    font-family: 'Playfair Display', serif;
+    text-transform: lowercase;
+}
+.navbar-brand .F{
+    text-transform: capitalize;
+}
+.navbar-brand .B{
+    color: red;
+}
+.nav-link {
+    color: black !important;
+}
+.cart{
+    font-size: 15px;
+    font-weight: 700;
+    font-family: 'Merriweather', serif;
+}
+.nav-link:hover{
+    color: red !important;
+}
+.nav-link.active {
+    color: red !important;
+  }
+  
